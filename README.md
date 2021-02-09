@@ -5,5 +5,7 @@ As the base for the project the study of Immunization Strategies in Networks wit
 
 
 References
+
 Martin, C., Niemeyer, P. (2019). Immunization Strategies in Networks with Missing Data.Network Science 7(2).
+
 Rosenblatt, S.F., Smith, J. A., Gauthier, G. R., Hébert-Dufresne, L. (2020). Immunization Strategies in Networks with Missing Data, to appear in PLOS Comput. Biol.
